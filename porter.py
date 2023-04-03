@@ -7,6 +7,7 @@ kennitalas = {
     'b1': '456',
 }
 
+
 import sys, pyperclip, time
 
 # Checking if the command has correct number of args.
